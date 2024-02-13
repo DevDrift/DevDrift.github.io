@@ -1,5 +1,3 @@
-# DevDrift
-
 Welcome to the DevDrift organization on GitHub! We are a team of developers passionate about creating various integrations for games. Our primary focus is to enhance the gaming experience by developing tools and features that streamline tournament participation, viewer engagement, and live streaming. Whether you're a game developer, tournament organizer, or a streamer, our solutions aim to make your gaming journey more enjoyable and efficient.
 
 ## About Us
