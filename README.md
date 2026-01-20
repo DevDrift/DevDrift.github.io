@@ -8,6 +8,10 @@ At DevDrift, we specialize in building integrations that bring added functionali
 
 - **Game Overlays**: We develop overlays specifically designed for tournaments. These overlays provide real-time information, scores, and statistics, enhancing the viewing experience for both participants and spectators.
 
+**Animation 3D logo**
+
+https://github.com/user-attachments/assets/7a3646b8-349c-4ac8-802c-770c2afffbf2
+
 - **Tournament Automation**: Our team creates bots that automate the registration process for tournaments. These bots handle tasks such as gathering participant information, managing team formations, and communicating important updates to registered players.
 
 - **Viewer Engagement**: We develop tools and features to facilitate interaction between streamers and their viewers. This includes chat bots that respond to viewer commands, follower notifications, and other interactive elements to create an engaging streaming experience.
